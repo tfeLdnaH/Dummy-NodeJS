@@ -10,8 +10,8 @@ function placeAnOrder(orderNumber) {
 }
 
 //simulate a 5 second operation
-function cookDeliveryFood(callback) {
-    setTimeout(callback, 5000);  //não precisa esperar os 5 ssegundos, meio que diz para o sistema vai fazer o q vc tem q fazer e depois de 5 segundos me executa
+function cookDeliveryFood(callback) {   
+    setTimeout(callback, 5000); 
 
 }
 
