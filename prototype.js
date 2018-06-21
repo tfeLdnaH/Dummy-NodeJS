@@ -1,6 +1,3 @@
-/**
- * Created by Anderson on 01/07/2017.
- */
 
 function User() {
     this.name = "";
